@@ -1,0 +1,144 @@
+65c65
+< 1| *** Egglet (#7) just piped 'number test.html >2' ***
+---
+> 1| *** Egglet (#1) just piped 'number test.html >2' ***
+67,69c67,69
+< 2| *** Egglet (#7) just piped 'number test.html >2' ***
+< 3| *** Egglet (#7) just piped 'number test.html >2' ***
+< 4| *** Egglet (#7) just piped 'number test.html >2' ***
+---
+> 2| *** Egglet (#1) just piped 'number test.html >2' ***
+> 3| *** Egglet (#1) just piped 'number test.html >2' ***
+> 4| *** Egglet (#1) just piped 'number test.html >2' ***
+72c72
+< 1| *** Egglet (#7) just piped 'cat test.html >3' ***
+---
+> 1| *** Egglet (#1) just piped 'cat test.html >3' ***
+74,76c74,76
+< 2| *** Egglet (#7) just piped 'cat test.html >3' ***
+< 3| *** Egglet (#7) just piped 'cat test.html >3' ***
+< 4| *** Egglet (#7) just piped 'cat test.html >3' ***
+---
+> 2| *** Egglet (#1) just piped 'cat test.html >3' ***
+> 3| *** Egglet (#1) just piped 'cat test.html >3' ***
+> 4| *** Egglet (#1) just piped 'cat test.html >3' ***
+83c83
+< 1| *** Error: public pipe #6 already exists. ***
+---
+> 1| *** Egglet (#1) just piped 'cat test.html >6' ***
+84a85,87
+> 2| *** Egglet (#1) just piped 'cat test.html >6' ***
+> 3| *** Egglet (#1) just piped 'cat test.html >6' ***
+> 4| *** Egglet (#1) just piped 'cat test.html >6' ***
+99,101c102,104
+< 1| *** GingerCookies (#9) just received via 'number <2' ***
+< 2| *** GingerCookies (#9) just received via 'number <2' ***
+< 3| *** GingerCookies (#9) just received via 'number <2' ***
+---
+> 1| *** GingerCookies (#3) just received via 'number <2' ***
+> 2| *** GingerCookies (#3) just received via 'number <2' ***
+> 3| *** GingerCookies (#3) just received via 'number <2' ***
+108c111
+< 4| *** GingerCookies (#9) just received via 'number <2' ***
+---
+> 4| *** GingerCookies (#3) just received via 'number <2' ***
+111,113c114,116
+< 1| *** GingerCookies (#9) just piped 'ls >4' ***
+< 2| *** GingerCookies (#9) just piped 'ls >4' ***
+< 3| *** GingerCookies (#9) just piped 'ls >4' ***
+---
+> 1| *** GingerCookies (#3) just piped 'ls >4' ***
+> 2| *** GingerCookies (#3) just piped 'ls >4' ***
+> 3| *** GingerCookies (#3) just piped 'ls >4' ***
+115c118
+< 4| *** GingerCookies (#9) just piped 'ls >4' ***
+---
+> 4| *** GingerCookies (#3) just piped 'ls >4' ***
+118c121,122
+< 2| *** Error: public pipe #5 already exists. ***
+---
+> 1| *** FruitBuffet (#2) just piped 'number test.html >5' ***
+> 2| *** FruitBuffet (#2) just piped 'number test.html >5' ***
+119a124,125
+> 3| *** FruitBuffet (#2) just piped 'number test.html >5' ***
+> 4| *** FruitBuffet (#2) just piped 'number test.html >5' ***
+126,129c132,135
+< 1| *** HotCakes (#10) just piped 'removetag test.html >1' ***
+< 2| *** HotCakes (#10) just piped 'removetag test.html >1' ***
+< 3| *** HotCakes (#10) just piped 'removetag test.html >1' ***
+< 4| *** HotCakes (#10) just piped 'removetag test.html >1' ***
+---
+> 1| *** HotCakes (#4) just piped 'removetag test.html >1' ***
+> 2| *** HotCakes (#4) just piped 'removetag test.html >1' ***
+> 3| *** HotCakes (#4) just piped 'removetag test.html >1' ***
+> 4| *** HotCakes (#4) just piped 'removetag test.html >1' ***
+133,136c139,142
+< 1| *** HotCakes (#10) just received via 'number <3' ***
+< 2| *** HotCakes (#10) just received via 'number <3' ***
+< 3| *** HotCakes (#10) just received via 'number <3' ***
+< 4| *** HotCakes (#10) just received via 'number <3' ***
+---
+> 1| *** HotCakes (#4) just received via 'number <3' ***
+> 2| *** HotCakes (#4) just received via 'number <3' ***
+> 3| *** HotCakes (#4) just received via 'number <3' ***
+> 4| *** HotCakes (#4) just received via 'number <3' ***
+149,151c155,157
+< 1| *** GingerCookies (#9) just received via 'cat <1' ***
+< 2| *** GingerCookies (#9) just received via 'cat <1' ***
+< 3| *** GingerCookies (#9) just received via 'cat <1' ***
+---
+> 1| *** GingerCookies (#3) just received via 'cat <1' ***
+> 2| *** GingerCookies (#3) just received via 'cat <1' ***
+> 3| *** GingerCookies (#3) just received via 'cat <1' ***
+158c164
+< 4| *** GingerCookies (#9) just received via 'cat <1' ***
+---
+> 4| *** GingerCookies (#3) just received via 'cat <1' ***
+161c167
+< 1| *** Egglet (#7) just received via 'number <5' ***
+---
+> 1| *** Egglet (#1) just received via 'number <5' ***
+168,170c174,176
+< 2| *** Egglet (#7) just received via 'number <5' ***
+< 3| *** Egglet (#7) just received via 'number <5' ***
+< 4| *** Egglet (#7) just received via 'number <5' ***
+---
+> 2| *** Egglet (#1) just received via 'number <5' ***
+> 3| *** Egglet (#1) just received via 'number <5' ***
+> 4| *** Egglet (#1) just received via 'number <5' ***
+197,206c203,206
+< 5| 1	(no name)	CGILAB/511	
+< 5| 2	(no name)	CGILAB/511	
+< 5| 3	user3	CGILAB/511	
+< 5| 4	(no name)	CGILAB/511	
+< 5| 5	(no name)	CGILAB/511	
+< 5| 6	(no name)	CGILAB/511	
+< 5| 7	IceCream	CGILAB/511	<-me
+< 5| 8	FruitBuffet	CGILAB/511	
+< 5| 9	GingerCookies	CGILAB/511	
+< 5| 10	HotCakes	CGILAB/511	
+---
+> 5| 1	IceCream	CGILAB/511	<-me
+> 5| 2	FruitBuffet	CGILAB/511	
+> 5| 3	GingerCookies	CGILAB/511	
+> 5| 4	HotCakes	CGILAB/511	
+210,213c210,213
+< 2| *** IceCream (#7) just received via 'cat <4' ***
+< 3| *** IceCream (#7) just received via 'cat <4' ***
+< 4| *** IceCream (#7) just received via 'cat <4' ***
+< 5| *** IceCream (#7) just received via 'cat <4' ***
+---
+> 2| *** IceCream (#1) just received via 'cat <4' ***
+> 3| *** IceCream (#1) just received via 'cat <4' ***
+> 4| *** IceCream (#1) just received via 'cat <4' ***
+> 5| *** IceCream (#1) just received via 'cat <4' ***
+223,226c223,226
+< 2| *** IceCream (#7) just piped 'number test.html >3' ***
+< 3| *** IceCream (#7) just piped 'number test.html >3' ***
+< 4| *** IceCream (#7) just piped 'number test.html >3' ***
+< 5| *** IceCream (#7) just piped 'number test.html >3' ***
+---
+> 2| *** IceCream (#1) just piped 'number test.html >3' ***
+> 3| *** IceCream (#1) just piped 'number test.html >3' ***
+> 4| *** IceCream (#1) just piped 'number test.html >3' ***
+> 5| *** IceCream (#1) just piped 'number test.html >3' ***

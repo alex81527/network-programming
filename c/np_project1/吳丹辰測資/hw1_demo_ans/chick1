@@ -1,0 +1,19 @@
+****************************************
+** Welcome to the information server. **
+****************************************
+% PATH=bin:.
+% bin
+test.html
+% % PATH=.
+% Unknown command: ls.
+% % total 108
+drwxr-xr-x  2 tsuyi  cs   4096 11  2 11:46 .
+drwxr-xr-x  3 tsuyi  cs   4096 11 16 01:00 ..
+-r-xr-xr-x  1 tsuyi  cs  12096 10 27 21:07 cat
+-r-xr-xr-x  1 tsuyi  cs  32792 10 27 21:06 ls
+-rwxr-xr-x  1 tsuyi  cs   6774 10 27 21:10 noop
+-rwxr-xr-x  1 tsuyi  cs  13655 10 27 21:07 number
+-rwxr-xr-x  1 tsuyi  cs   8298 10 27 21:08 removetag
+-rwxr-xr-x  1 tsuyi  cs   8887 10 27 21:09 removetag0
+% Unknown command: date.
+% 

